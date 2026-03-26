@@ -14,12 +14,12 @@
   background: green;
   color: white;
   padding: 5px 10px;
-  display: none;
+  display: none; /* zobrazuje JS */
 }
 
 /* Doprava zadarmo */
 .free-shipping {
-  display: none;
+  display: none; /* zobrazuje JS podľa ceny */
   font-size: 12px;
   color: #555;
 }
